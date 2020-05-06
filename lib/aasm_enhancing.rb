@@ -1,5 +1,3 @@
-require "aasm_enhancing/railtie"
-
 module AasmEnhancing
   # how to use
   # in model
